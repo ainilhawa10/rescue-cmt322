@@ -204,7 +204,7 @@ if($mysqli->connect_error){
       <p>Copyright Rescue, &copy; 2020</p>
     </footer>
 
-    assa
+ 
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
