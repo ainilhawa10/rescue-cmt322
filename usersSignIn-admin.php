@@ -30,6 +30,5 @@
                 <a href="usersSignUp-M.php">Sign Up</a>
 			</div>
 		</div>
-		hekki
 	</div>
 </div>
